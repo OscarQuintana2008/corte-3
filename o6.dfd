@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+carlitos
+1
+0
+1
+w
+1
+0
+9
+1
+27
+carlitos<380000 or w<380000
+4
+1
+93
+' señor usuario porfavor digite 1  si desea donarle a carlitos y dsi no digite el numero 2 ' 
+5
+1
+1
+n
+7
+0
+1
+3
+n=1
+7
+0
+1
+8
+w>380000
+5
+1
+8
+donacion
+6
+1
+1
+w
+10
+w+donacion
+4
+1
+18
+' muchas gracias '
+13
+4
+1
+37
+' señor usuario no se le puede donar'
+13
+13
+7
+0
+1
+15
+carlitos>380000
+5
+1
+8
+donacion
+6
+1
+8
+carlitos
+17
+carlitos+donacion
+4
+1
+18
+' muchas gracias '
+13
+4
+1
+37
+' señor usuario no se le puede donar'
+13
+13
+11
+1
