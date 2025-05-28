@@ -6,40 +6,90 @@
 0
 6
 2
+4
+c10k
+1
+0
 3
-ant
+c5k
 1
 0
-5
-encon
+4
 1
-0
+52
+' señor usuario bienvenido a la carrera del itfip ' 
+4
+1
+136
+' señor usuario porfavor digite 1 si desea inscribirse a la carrera de 10 k , o la opcion 2 si desea inscribirse a la carreara de 5 k ' 
 9
 1
-7
-encon=0
+18
+c10k <10 or c5k <5
 5
 1
+4
+insc
+7
+0
 1
-n
+6
+insc=1
+4
+1
+34
+' bienvenido a la carrera de 5 k '
 7
 0
 1
 5
-n=ant
+c5k<5
+4
+1
+35
+' lo siento se acabaron los cupos '
+13
 6
 1
 3
-ant
+c5k
+5
+c5k+1
+4
 1
-n
+25
+' van ' , c5k , ' cupos '
+13
+13
+4
+1
+35
+' bienvenido a la carrera de 10 k '
+7
+0
+1
+7
+c10k<10
+4
+1
+39
+' lo siento ya se acabaron los cupos ' 
 13
 6
 1
-5
-encon
+4
+c10k
+6
+c10k+1
+4
 1
-1
+26
+' van ' , c10k , ' cupos '
+13
 13
 11
+4
+1
+52
+' lo siento señor usuario ya se acabaron los cupos '
 1
